@@ -1,4 +1,5 @@
 {
     "git.allowForcePush": true,
-    "git.showPushSuccessNotification": true
+    "git.showPushSuccessNotification": true,
+    "github-enterprise.uri": "https://github.com/Tarkanozt"
 }
